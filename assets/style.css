@@ -7,10 +7,12 @@
 }
 
 body {
-    background-color: black;
+    background-color: #131314;
 }
 
 h1 {
     color: white;
-    margin-top: 50px;
+    margin-top: 150px;
+    text-align: center;
+    font-size: 4rem;
 }
